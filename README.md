@@ -796,22 +796,23 @@ A simple structure for the GitHub repository:
 ``` text
 Cancer-Severity-Project/
 │
-└── Cancer Severity Project/
-    │
-    ├── Cancer Risk Assistant Test Cases/
-    │   ├── Test Case 1.1.png
-    │   ├── Test Case 1.2.png
-    │   ├── Test Case 2.1.png
-    │   ├── Test Case 2.2.png
-    │   ├── Test Case 3.png
-    │   ├── Test Case 4.png
-    │   └── Test Case 5.png
-    │
-    ├── Cancer_Risk_Assistant_Project.ipynb
-    ├── Cancer_Severity_Prediction_Project.ipynb
-    ├── global_cancer_patients_2015_2024.csv
-    ├── severity_model.joblib
-    └── README.md
+├── Cancer Severity Project/
+│   │
+│   ├── Cancer Risk Assistant Test Cases/
+│   │   ├── Test Case 1.1.png
+│   │   ├── Test Case 1.2.png
+│   │   ├── Test Case 2.1.png
+│   │   ├── Test Case 2.2.png
+│   │   ├── Test Case 3.png
+│   │   ├── Test Case 4.png
+│   │   └── Test Case 5.png
+│   │
+│   ├── Cancer_Risk_Assistant_Project.ipynb
+│   ├── Cancer_Severity_Prediction_Project.ipynb
+│   ├── global_cancer_patients_2015_2024.csv
+│   └── severity_model.joblib
+│
+└── README.md
 ```
 
 ------------------------------------------------------------------------
